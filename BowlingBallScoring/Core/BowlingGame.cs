@@ -5,8 +5,8 @@ namespace BowlingBallScoring.Core
 {
 	public class BowlingGame
 	{
-		public ArrayList _throws;
-		public ArrayList _frames;
+		public readonly ArrayList _throws;
+		public readonly ArrayList _frames;
 
 		public BowlingGame()
 		{
