@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BowlingBallScoring.Core;
+using System;
 
 namespace BowlingBallScoring
 {

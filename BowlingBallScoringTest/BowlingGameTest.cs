@@ -1,4 +1,4 @@
-using BowlingBallScoring;
+using BowlingBallScoring.Core;
 using NUnit.Framework;
 
 namespace BowlingBallScoringTest

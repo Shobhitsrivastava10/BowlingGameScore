@@ -1,7 +1,7 @@
 ﻿using BowlingBallScoring.Models;
 using System.Collections;
 
-namespace BowlingBallScoring
+namespace BowlingBallScoring.Core
 {
 	public class BowlingGame
 	{
